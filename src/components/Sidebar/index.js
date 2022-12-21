@@ -1,7 +1,8 @@
-import { Link, NavLink } from 'react-router-dom'
+import { NavLink } from 'react-router-dom'
+// import { Link, NavLink } from 'react-router-dom'
 import './index.scss';
-import LogoS from '../../assets/images/logo-s.png'
-import LogoSubtitle from '../../assets/images/logo_sub.png'
+// import LogoS from '../../assets/images/logo-s.png'
+// import LogoSubtitle from '../../assets/images/logo_sub.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faHome, faEnvelope, faUser, faBoxArchive, faBars, faClose } from '@fortawesome/free-solid-svg-icons'
 import { faGitlab, faLinkedin} from '@fortawesome/free-brands-svg-icons';
