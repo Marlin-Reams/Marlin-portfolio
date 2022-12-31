@@ -3,13 +3,13 @@
         {
             "cover": "./portfolio/1/chat-logo.png",
             "title": "Chat Catch",
-            "description": "A full-stack web-application utilizing Python, JavaScript, Bootstrap, FastAPI, Docker, React, and Websockets.This project allows communications across the internet. ",
+            "description": "Python, JavaScript, Bootstrap, FastAPI, Docker, React, and Websockets",
             "url": "https://gitlab.com/chatty-cathys/chat-catch"
         },
         {
             "cover": "./portfolio/Autosist/AUTOsist.png",
-            "title": "test",
-            "description": "A full-stack web-application utilizing Python, JavaScript, Bootstrap, Django, Docker, React, This project is intended to manage a car sales and repair service for an automobile dealership and utilizes RESTful APIs",
+            "title": "Autosist",
+            "description": "Python, JavaScript, Bootstrap, Django, Docker, React, and utilizes RESTful APIs",
             "url": "https://gitlab.com/marlinreams/autosist"
         },
         {
